@@ -11,4 +11,7 @@
   - One-to-many
   - Many-to-many
   
+- SQL Server-də olan Built-in funksiyalar:
+  - https://www.w3schools.com/sql/sql_ref_sqlserver.asp
+  
 *Sabaha qədər. Uğurlar.*
